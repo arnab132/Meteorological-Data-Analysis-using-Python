@@ -1,4 +1,4 @@
-# Meterological-Data-Analysis-using-Python
+# Meteorological-Data-Analysis-using-Python
 
 Data analysis can be described as a process consisting of several steps in which the raw data are transformed and processed in order to produce data visualizations and make predictions. Data analysis is schematized as a process chain consisting of the following sequence of stages:
 
