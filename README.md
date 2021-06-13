@@ -11,5 +11,5 @@ Null Hypothesis means we need to find whether the Average apparent temperature f
 Fig. 1: Screenshot of the Plot of Changes in Apparent Temp and Humidity with the time.
 
 
-If you liked the code do Give a Star to support.
+If you liked the code do Give a Star to support and keep supporting.
 
