@@ -15,6 +15,12 @@ Fig. 1: Screenshot of the Plot of Changes in Apparent Temp and Humidity with the
 
 Fig. 2: Screenshot of the Plot of Yearwise Changes in Apparent Temp and Humidity for the April Month.
 
+![image](https://user-images.githubusercontent.com/22562694/122056968-c29b9080-ce07-11eb-89ca-b16ed53f235d.png)
+
+
+For more information, Visit:
+
+https://medium.com/data-science-and-machine-learning-by-arnab-dey/meteorological-data-analysis-using-python-816a290f76a2
 
 If you liked the code do Give a Star to support and keep supporting for more such works and implementation.
 
