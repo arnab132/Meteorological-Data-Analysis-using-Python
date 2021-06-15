@@ -13,7 +13,7 @@ Fig. 1: Screenshot of the Plot of Changes in Apparent Temp and Humidity with the
 
 ![download](https://user-images.githubusercontent.com/22562694/122056458-3ab58680-ce07-11eb-9b45-c269a055c48c.png)
 
-Fig. 1: Screenshot of the Plot of Yearwise Changes in Apparent Temp and Humidity.
+Fig. 2: Screenshot of the Plot of Yearwise Changes in Apparent Temp and Humidity for the April Month.
 
 
 If you liked the code do Give a Star to support and keep supporting for more such works and implementation.
