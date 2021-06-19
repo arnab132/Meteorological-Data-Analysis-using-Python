@@ -1,5 +1,7 @@
 # Meteorological-Data-Analysis-using-Python
 
+It can also be termed as Weather analysis.
+
 ![image](https://user-images.githubusercontent.com/22562694/122146578-fbbe1a00-ce74-11eb-958d-4ce18a21eef2.png)
 
 Data analysis can be described as a process consisting of Several steps in which the Raw data are transformed and processed in order to produce Data visualizations and make predictions. Data analysis is Schematized as a process chain consisting of the following Sequence of stages:
