@@ -24,5 +24,5 @@ For more information, Visit:
 
 https://medium.com/data-science-and-machine-learning-by-arnab-dey/meteorological-data-analysis-using-python-816a290f76a2
 
-If you liked the code do Give a Star to support and keep supporting for more such works and implementation.
+If you Liked the code do Give a Star to support and keep supporting for more such works and implementation.
 
