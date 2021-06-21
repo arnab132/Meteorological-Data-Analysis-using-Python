@@ -4,7 +4,7 @@ It can also be termed as Weather analysis or Meteorological data analysis.
 
 ![image](https://user-images.githubusercontent.com/22562694/122146578-fbbe1a00-ce74-11eb-958d-4ce18a21eef2.png)
 
-Data analysis can be described as a process consisting of several steps in which the Raw data are transformed and processed in order to produce Data visualizations and make predictions. Data analysis is Schematized as a process chain consisting of the following Sequence of stages:
+Data analysis can be described as a process consisting of Several steps in which the Raw data are transformed and processed in order to produce Data visualizations and make predictions. Data analysis is Schematized as a process chain consisting of the following Sequence of stages:
 
 ![image](https://user-images.githubusercontent.com/22562694/121211631-43074200-c89a-11eb-8ed3-543b449f1096.png)
 
