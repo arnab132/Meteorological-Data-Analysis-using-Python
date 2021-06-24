@@ -22,7 +22,7 @@ Fig. 2: Screenshot of the Plot of Yearwise Changes in the Apparent Temp and Humi
 ![image](https://user-images.githubusercontent.com/22562694/122056968-c29b9080-ce07-11eb-89ca-b16ed53f235d.png)
 
 
-For more information, Visit:
+For more information, Visit here:
 
 https://medium.com/data-science-and-machine-learning-by-arnab-dey/meteorological-data-analysis-using-python-816a290f76a2
 
