@@ -1,6 +1,6 @@
 # Meteorological-Data-Analysis-using-Python
 
-It can also be termed as Weather analysis or Meteorological data Analysis.
+It can also be termed as Weather analysis or Meteorological data analysis.
 
 ![image](https://user-images.githubusercontent.com/22562694/122146578-fbbe1a00-ce74-11eb-958d-4ce18a21eef2.png)
 
