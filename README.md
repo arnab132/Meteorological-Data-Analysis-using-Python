@@ -17,7 +17,7 @@ Fig. 1: Screenshot of the plot of the changes in the Apparent Temp and Humidity 
 
 ![download](https://user-images.githubusercontent.com/22562694/122056458-3ab58680-ce07-11eb-9b45-c269a055c48c.png)
 
-Fig. 2: Screenshot of the Plot of Yearwise Changes in the Apparent Temp and Humidity for the April Month.
+Fig. 2: Screenshot of the Plot of Yearwise changes in the Apparent Temp and Humidity for the April Month.
 
 ![image](https://user-images.githubusercontent.com/22562694/122056968-c29b9080-ce07-11eb-89ca-b16ed53f235d.png)
 
